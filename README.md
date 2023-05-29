@@ -74,4 +74,6 @@ Benefit from Spaces, a feature of Roboflow, to organize and collaborate on the p
 
 Overall, by combining the power of YOLOv8 for industrial equipment detection, Hugging Face for deployment, Roboflow for data management, and MLops practices, this systematic approach enables accurate and efficient detection of industrial equipment in unstructured image data.
 
+![image](https://raw.githubusercontent.com/MMuttalib1326/Industrial-Equipments-Detection-Yolov8/main/Screenshot%20(345).png)
+
 
