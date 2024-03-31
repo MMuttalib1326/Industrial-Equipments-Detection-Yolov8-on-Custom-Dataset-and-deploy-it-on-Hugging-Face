@@ -1,5 +1,4 @@
 <h1 align="center"> Industrial Equipments Detection Yolov8 on Custom Dataset and deploy it on Hugging Face</h1>
-
 *Objective of this project is to build an accurate and efficient computer vision model capable of detecting industrial equipment in images.*
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
